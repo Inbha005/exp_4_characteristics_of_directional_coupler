@@ -28,7 +28,9 @@ A magic tee is a four–port waveguide junction formed by combining an E–plane
 
 <img width="520" height="247" alt="image" src="https://github.com/user-attachments/assets/f9162a45-1659-4c66-ae44-b9251b34f297" />
 
+
 ##CIRCUIT / PORT DIAGRAM
+
 <img width="640" height="602" alt="image" src="https://github.com/user-attachments/assets/fbc85177-1382-4869-97bb-30ce8b317d02" />
 
 
