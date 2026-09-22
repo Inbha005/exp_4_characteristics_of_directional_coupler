@@ -1,6 +1,8 @@
-# exp_4_characteristics_of_directional_coupler
+# EXP_04_CHARACTERISTICS_OF_MAGIC_TEE
 
-# Experiment 4 — Directional Coupler Characteristics
+
+# Experiment 4 — CHARACTERISTICS OF MAGIC TEE
+
 
 ---
 
@@ -37,7 +39,8 @@ A magic tee is a four–port waveguide junction formed by combining an E–plane
 
 ## Experimental Setup
 
-<img width="783" height="270" alt="image" src="https://github.com/user-attachments/assets/0b0576bb-4b6f-4e21-8a34-8f54ca04adf9" />
+<img width="940" height="307" alt="image" src="https://github.com/user-attachments/assets/8c4b0e94-128c-4a90-ab04-dd9de5d6d594" />
+
 
 ## Procedure
 1. The bench is set up with the magic tee connected as the device under test, and the klystron output is stabilised.
